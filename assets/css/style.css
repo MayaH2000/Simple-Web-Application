@@ -19,11 +19,9 @@ body {
     display: inline-block;
     font-size: 40px;
     margin-right: 40px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
+
 
 .header nav{
     padding-top: 15px;
@@ -33,13 +31,11 @@ body {
     font-size: 18px;
 }
 
-.header nav ul li {
-    list-style-type: none;
-}
 
 .header nav ul li {
     display: inline-block;
     margin-right: 40px;
+    list-style-type: none;
 }
 
 a {
